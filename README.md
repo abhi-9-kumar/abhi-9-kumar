@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhi-9-kumar
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in coding and trading.
+- 🌱 I’m currently learning web development and DSA in C++
 - 📫 How to reach me? You can reach me through my mail abhikr987654@gmail.com
 
 <!---
